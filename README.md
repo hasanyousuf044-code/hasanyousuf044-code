@@ -1,6 +1,6 @@
 <div align="center">
 
-# YOUR NAME
+# Yousuf Hasan
 
 ### Python Developer • Problem Solver • Builder of Practical Systems • Continuous Learner
 
@@ -9,8 +9,8 @@
 </p>
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/hasanyousuf044-code">
+    <img src="https://img.shields.io/badge/GitHub-hasanyousuf044-code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -27,7 +27,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hasanyousuf044-code&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 </div>
@@ -69,7 +69,7 @@ I care about fundamentals, code quality, readable structure, and practical resul
 <td valign="top" width="33%">
 
 ### Frameworks / Libraries
-<p align="center">
+<p>
   <!-- Python -->
   <img src="https://github.com" width="50" height="50" alt="Python" style="margin: 10px;" />
 
@@ -102,11 +102,19 @@ I care about fundamentals, code quality, readable structure, and practical resul
 ## Software I Use
 
 <p>
-  <img src="https://img.shields.io/badge/Git-Ready-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Ready-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-Ready-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Ready-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <!-- Git -->
+  <img src="https://shields.io" style="margin: 5px;" alt="Git" />
+
+  <!-- GitHub -->
+  <img src="https://shields.io" style="margin: 5px;" alt="GitHub" />
+
+  <!-- VS Code -->
+  <img src="https://shields.io" style="margin: 5px;" alt="VS Code" />
+
+  <!-- Kali Linux -->
+  <img src="https://shields.io" style="margin: 5px;" alt="Kali Linux" />
 </p>
+
 
 ---
 
@@ -233,19 +241,21 @@ I care about fundamentals, code quality, readable structure, and practical resul
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github
+    readmestats.vercel.app/apiusername=hasanyousuf044-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub
+    Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanyousuf044-cod&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyousuf044-cod&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanyousuf044-cod&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -255,22 +265,22 @@ I care about fundamentals, code quality, readable structure, and practical resul
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Profile Details" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanyousuf044-cod&theme=tokyonight" alt="Profile Details" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Repos per Language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasanyousuf044-cod&theme=tokyonight" alt="Repos per Language" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Most Commit Language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasanyousuf044-cod&theme=tokyonight" alt="Most Commit Language"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasanyousuf044-cod&theme=tokyonight" alt="Stats" />
     </td>
   </tr>
 </table>
@@ -337,10 +347,10 @@ I care about fundamentals, code quality, readable structure, and practical resul
 ## Contact
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:hasanyousuf044@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/hasanyousuf044-cod">
     <img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
