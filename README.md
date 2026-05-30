@@ -71,54 +71,31 @@ I care about fundamentals, code quality, readable structure, and practical resul
 ### Frameworks / Libraries
 <p align="center">
   <!-- Python -->
-  <a href="https://python.org" target="_blank">
-    <img src="https://jsdelivr.net" width="55" height="55" alt="Python" style="margin: 10px;" />
-  </a>
+  <img src="https://githubusercontent.com" width="55" height="55" alt="Python" style="margin: 10px;" />
 
   <!-- TensorFlow -->
-  <a href="https://tensorflow.org" target="_blank">
-    <img src="https://jsdelivr.net" width="55" height="55" alt="TensorFlow" style="margin: 10px;" />
-  </a>
+  <img src="https://githubusercontent.com" width="55" height="55" alt="TensorFlow" style="margin: 10px;" />
 
   <!-- PyTorch -->
-  <a href="https://pytorch.org" target="_blank">
-    <img src="https://jsdelivr.net" width="55" height="55" alt="PyTorch" style="margin: 10px;" />
-  </a>
+  <img src="https://githubusercontent.com" width="55" height="55" alt="PyTorch" style="margin: 10px;" />
 
   <!-- Scikit-Learn -->
-  <a href="https://scikit-learn.org" target="_blank">
-    <img src="https://jsdelivr.net" width="55" height="55" alt="Scikit-Learn" style="margin: 10px;" />
-  </a>
+  <img src="https://githubusercontent.com" width="55" height="55" alt="Scikit-Learn" style="margin: 10px;" />
 
   <!-- Keras -->
-  <a href="https://keras.io" target="_blank">
-    <img src="https://jsdelivr.net" width="55" height="55" alt="Keras" style="margin: 10px;" />
-  </a>
+  <img src="https://githubusercontent.com" width="55" height="55" alt="Keras" style="margin: 10px;" />
 
   <!-- OpenCV -->
-  <a href="https://opencv.org" target="_blank">
-    <img src="https://jsdelivr.net" width="55" height="55" alt="OpenCV" style="margin: 10px;" />
-  </a>
+  <img src="https://githubusercontent.com" width="55" height="55" alt="OpenCV" style="margin: 10px;" />
 
   <!-- NumPy -->
-  <a href="https://numpy.org" target="_blank">
-    <img src="https://jsdelivr.net" width="55" height="55" alt="NumPy" style="margin: 10px;" />
-  </a>
+  <img src="https://githubusercontent.com" width="55" height="55" alt="NumPy" style="margin: 10px;" />
 
   <!-- Pandas -->
-  <a href="https://pydata.org" target="_blank">
-    <img src="https://jsdelivr.net" width="55" height="55" alt="Pandas" style="margin: 10px;" />
-  </a>
+  <img src="https://githubusercontent.com" width="55" height="55" alt="Pandas" style="margin: 10px;" />
 
   <!-- Matplotlib -->
-  <a href="https://matplotlib.org" target="_blank">
-    <img src="https://jsdelivr.net" width="55" height="55" alt="Matplotlib" style="margin: 10px;" />
-  </a>
-
-  <!-- Hugging Face (Transformers) -->
-  <a href="https://huggingface.co" target="_blank">
-    <img src="https://huggingface.cofront/assets/huggingface_logo-noborder.svg" width="55" height="55" alt="Hugging Face" style="margin: 10px;" />
-  </a>
+  <img src="https://githubusercontent.com" width="55" height="55" alt="Matplotlib" style="margin: 10px;" />
 </p>
 
 </td>
