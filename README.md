@@ -71,33 +71,29 @@ I care about fundamentals, code quality, readable structure, and practical resul
 ### Frameworks / Libraries
 <p align="center">
   <!-- Python -->
-  <img src="https://githubusercontent.com" width="55" height="55" alt="Python" style="margin: 10px;" />
+  <img src="https://github.com" width="50" height="50" alt="Python" style="margin: 10px;" />
 
   <!-- TensorFlow -->
-  <img src="https://githubusercontent.com" width="55" height="55" alt="TensorFlow" style="margin: 10px;" />
+  <img src="https://github.com" width="50" height="50" alt="TensorFlow" style="margin: 10px;" />
 
   <!-- PyTorch -->
-  <img src="https://githubusercontent.com" width="55" height="55" alt="PyTorch" style="margin: 10px;" />
+  <img src="https://github.com" width="50" height="50" alt="PyTorch" style="margin: 10px;" />
 
   <!-- Scikit-Learn -->
-  <img src="https://githubusercontent.com" width="55" height="55" alt="Scikit-Learn" style="margin: 10px;" />
-
-  <!-- Keras -->
-  <img src="https://githubusercontent.com" width="55" height="55" alt="Keras" style="margin: 10px;" />
+  <img src="https://github.com" width="50" height="50" alt="Scikit-Learn" style="margin: 10px;" />
 
   <!-- OpenCV -->
-  <img src="https://githubusercontent.com" width="55" height="55" alt="OpenCV" style="margin: 10px;" />
+  <img src="https://github.com" width="50" height="50" alt="OpenCV" style="margin: 10px;" />
 
   <!-- NumPy -->
-  <img src="https://githubusercontent.com" width="55" height="55" alt="NumPy" style="margin: 10px;" />
+  <img src="https://github.com" width="50" height="50" alt="NumPy" style="margin: 10px;" />
 
   <!-- Pandas -->
-  <img src="https://githubusercontent.com" width="55" height="55" alt="Pandas" style="margin: 10px;" />
+  <img src="https://github.com" width="50" height="50" alt="Pandas" style="margin: 10px;" />
 
-  <!-- Matplotlib -->
-  <img src="https://githubusercontent.com" width="55" height="55" alt="Matplotlib" style="margin: 10px;" />
+  <!-- Keras -->
+  <img src="https://github.com" width="50" height="50" alt="Keras" style="margin: 10px;" />
 </p>
-
 </td>
 </tr>
 
