@@ -167,8 +167,6 @@ class YousufHasan:
 | 🐍 Python | Intermediate → Advanced | 
 | 🧠 Problem Solving / DSA | Growing | 
 | 🔀 Git & GitHub | Comfortable | 
-| 🔌 Backend Development | Learning | 
-| 🌐 REST APIs | Learning | 
 | 📊 Data Handling | Beginner | 
 | 🏆 Competitive Programming | Active | 
 
@@ -250,8 +248,6 @@ class YousufHasan:
     <img src="https://img.shields.io/badge/Codeforces-Compete-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
-
-> 📌 **Update your LinkedIn, LeetCode, Codeforces usernames** in the links above if they differ.
 
 ---
 
