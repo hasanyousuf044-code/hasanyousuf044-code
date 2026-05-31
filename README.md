@@ -1,387 +1,282 @@
 <div align="center">
 
-# Yousuf Hasan
-
-### Python Developer • Problem Solver • Builder of Practical Systems • Continuous Learner
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yousuf%20Hasan&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Python%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Builder&descAlignY=55&descSize=20&animation=fadeIn" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=1200&lines=Python+Developer;Competitive+Programmer;Software+Builder;Clean+Code+Enthusiast;Learning+and+Shipping+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Competitive+Programmer+%F0%9F%8F%86;Clean+Code+Enthusiast+%E2%9C%A8;Building+Real+Systems+Every+Day+%F0%9F%9A%80;Learning+%26+Shipping+Always+%F0%9F%93%A6" alt="Typing SVG" />
 </p>
 
 <p>
   <a href="https://github.com/hasanyousuf044-code">
-    <img src="https://img.shields.io/badge/GitHub-hasanyousuf044-code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-hasanyousuf044--code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  <a href="mailto:hasanyousuf044@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-hasanyousuf044-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=hasanyousuf044-code&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://leetcode.com/hasanyousuf044">
+    <img src="https://img.shields.io/badge/LeetCode-hasanyousuf044-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/hasanyousuf044">
+    <img src="https://img.shields.io/badge/Codeforces-hasanyousuf044-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/hasanyousuf044">
+    <img src="https://img.shields.io/badge/CodeChef-hasanyousuf044-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/hasanyousuf044">
+    <img src="https://img.shields.io/badge/HackerRank-hasanyousuf044-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=hasanyousuf044-code&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
----
-
-## About Me
+## 🧑‍💻 About Me
 
 I build with discipline, study with intent, and improve through repetition.
 
 I care about fundamentals, code quality, readable structure, and practical results. My focus is not only learning tools, but creating work that looks professional, performs reliably, and proves real ability.
 
-- 🔭 Currently focused on: **Python development**
-- 🌱 Currently learning: **advanced Python, DSA, Git, GitHub, backend development, APIs, and software architecture**
-- 💡 Interested in: **automation, backend systems, AI tools, data, web development, and competitive programming**
-- 🎯 Goal: **to become a highly capable engineer with a strong portfolio and serious technical depth**
-- 🧠 Working style: **clarity, consistency, precision, and continuous improvement**
-- 🚀 I prefer: **real projects, solid engineering, and measurable progress**
-- 📌 My standard: **quality over noise, substance over appearance**
+- 🔭 Currently focused on: *Python development*
+- 🌱 Currently learning: *advanced Python, DSA, Git, GitHub, and software architecture*
+- 💡 Interested in: *automation, backend systems, AI tools, data, web development, and competitive programming*
+- 🎯 Goal: *to become a highly capable engineer with a strong portfolio and serious technical depth*
+- 🧠 Working style: *clarity, consistency, precision, and continuous improvement*
+- 🚀 I prefer: *real projects, solid engineering, and measurable progress*
+- 📌 My standard: *quality over noise, substance over appearance*
+- 🌌 Curiosity: Driven to invent new things and explore concepts that don't exist yet or are deemed "Impossible"
+  
 
----
+## Core Identity
 
-## Tech Stack
+```python
+class YousufHasan:
+    def __init__(self):
+        self.name       = "Yousuf Hasan"
+        self.role       = "Python Developer"
+        self.location   = "Bangladesh 🇧🇩"
+        self.focus      = ["Python", "DSA", "Backend Development", "Competitive Programming"]
+        self.learning   = ["Advanced Python", "APIs", "Git & GitHub", "Software Architecture"]
+        self.interested = ["Automation", "AI Tools", "Backend Systems", "Data"]
+        self.goal       = "Become a highly capable engineer with a strong portfolio"
+        self.standard   = "Quality over noise. Substance over appearance."
 
-### Languages
+    def __str__(self):
+        return "I build with discipline, study with intent, and improve through repetition."
+```
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
 </p>
 
-
-### Tools
+### 🔧 Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
-</td>
-<td valign="top" width="33%">
-
-### Frameworks / Libraries
+### 📦 Python Libraries (Current)
 <p>
-  <!-- Python -->
-  <img src="https://github.com" width="50" height="50" alt="Python" style="margin: 10px;" />
-
-  <!-- TensorFlow -->
-  <img src="https://github.com" width="50" height="50" alt="TensorFlow" style="margin: 10px;" />
-
-  <!-- PyTorch -->
-  <img src="https://github.com" width="50" height="50" alt="PyTorch" style="margin: 10px;" />
-
-  <!-- Scikit-Learn -->
-  <img src="https://github.com" width="50" height="50" alt="Scikit-Learn" style="margin: 10px;" />
-
-  <!-- OpenCV -->
-  <img src="https://github.com" width="50" height="50" alt="OpenCV" style="margin: 10px;" />
-
-  <!-- NumPy -->
-  <img src="https://github.com" width="50" height="50" alt="NumPy" style="margin: 10px;" />
-
-  <!-- Pandas -->
-  <img src="https://github.com" width="50" height="50" alt="Pandas" style="margin: 10px;" />
-
-  <!-- Keras -->
-  <img src="https://github.com" width="50" height="50" alt="Keras" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS%20%2F%20sys-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-</td>
-</tr>
 
----
-
-## Software I Use
-
+### 🔮 Libraries I'm Learning Next
 <p>
-  <!-- Git -->
-  <img src="https://shields.io" style="margin: 5px;" alt="Git" />
-
-  <!-- GitHub -->
-  <img src="https://shields.io" style="margin: 5px;" alt="GitHub" />
-
-  <!-- VS Code -->
-  <img src="https://shields.io" style="margin: 5px;" alt="VS Code" />
-
-  <!-- Kali Linux -->
-  <img src="https://shields.io" style="margin: 5px;" alt="Kali Linux" />
-</p>
-
-
----
-
-## Libraries I Work With Future
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-Neural%20Networks-EE4C2C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transformers-LLMs-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge" />
-</p>
----
-
-## What I Do
-
-- Write Python scripts and utilities
-- Automate repetitive tasks
-- Solve logic problems and algorithmic challenges
-- Build portfolio projects with proper structure
-- Improve code readability and maintainability
-- Learn backend development and APIs
-- Document projects so they look professional
-- Keep repository quality high
-
----
-
-## Competitive Programming
-
-### Profiles
-- LeetCode: [YOUR_LINK]
-- Codeforces: [YOUR_LINK]
-- CodeChef: [YOUR_LINK]
-- AtCoder: [YOUR_LINK]
-- HackerRank: [YOUR_LINK]
-
-### Status
-- Current rating: [ADD]
-- Max rating: [ADD]
-- Problems solved: [ADD]
-- Contests participated: [ADD]
-- Best rank: [ADD]
-
-### Screenshots
-<p>
-  <img src="ADD_SCREENSHOT_IMAGE_URL_1" width="32%" />
-  <img src="ADD_SCREENSHOT_IMAGE_URL_2" width="32%" />
-  <img src="ADD_SCREENSHOT_IMAGE_URL_3" width="32%" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
+## ⚙️ What I Do
 
-## Certificates
-
-<p>
-  <img src="ADD_CERTIFICATE_IMAGE_URL_1" width="32%" />
-  <img src="ADD_CERTIFICATE_IMAGE_URL_2" width="32%" />
-  <img src="ADD_CERTIFICATE_IMAGE_URL_3" width="32%" />
-</p>
-
-<p>
-  <img src="ADD_CERTIFICATE_IMAGE_URL_4" width="32%" />
-  <img src="ADD_CERTIFICATE_IMAGE_URL_5" width="32%" />
-  <img src="ADD_CERTIFICATE_IMAGE_URL_6" width="32%" />
-</p>
-
-### Certificate List
-- [Certificate Name] — [Issuer] — [Year]
-- [Certificate Name] — [Issuer] — [Year]
-- [Certificate Name] — [Issuer] — [Year]
-- [Certificate Name] — [Issuer] — [Year]
-- [Certificate Name] — [Issuer] — [Year]
+```
+✅ Write Python scripts and utilities
+✅ Automate repetitive and manual tasks
+✅ Solve logic problems and algorithmic challenges
+✅ Build portfolio projects with clean structure
+✅ Improve code readability and maintainability
+✅ Learn backend development and REST APIs
+✅ Document projects professionally
+✅ Keep repository quality consistently high
+```
 
 ---
 
-## Achievements
+## 🏆 Competitive Programming
 
-- [Award / Contest / Hackathon]
-- [Open-source contribution]
-- [Course completion]
-- [Project milestone]
-- [Community recognition]
-- [Competitive programming milestone]
+| Platform | Profile | Status |
+|----------|---------|--------|
+| 🟡 LeetCode | [hasanyousuf044](https://leetcode.com/hasanyousuf044) | Active |
+| 🔵 Codeforces | [hasanyousuf044](https://codeforces.com/profile/hasanyousuf044) | Active |
+| 🟤 CodeChef | [hasanyousuf044](https://www.codechef.com/users/hasanyousuf044) | Active |
+| 🟢 HackerRank | [hasanyousuf044](https://www.hackerrank.com/hasanyousuf044) | Active |
+| 🟣 AtCoder | [hasanyousuf044](https://atcoder.jp/users/hasanyousuf044) | Active |
 
----
-
-## Experience
-
-### [Role / Title]
-**Organization:** [Organization Name]  
-**Duration:** [Start Date] — [End Date or Present]  
-**Description:**  
-- [Responsibility or achievement]
-- [Responsibility or achievement]
-- [Responsibility or achievement]
+> 📌 **Update this table** with your real handles — just replace `hasanyousuf044` in each link.
 
 ---
 
-## Education
+## 📊 GitHub Stats
 
-- **School / College:** [Name]
-- **Current Level:** [Add]
-- **Key Interests:** Python, programming, problem solving, backend development, competitive programming
-- **Self-Study Areas:** Git, GitHub, APIs, data structures, algorithms, system design basics
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasanyousuf044-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanyousuf044-code&theme=tokyonight&hide_border=true" />
 
-## Featured Screenshots
+</div>
 
-<p>
-  <img src="ADD_IMAGE_URL_1" width="32%" />
-  <img src="ADD_IMAGE_URL_2" width="32%" />
-  <img src="ADD_IMAGE_URL_3" width="32%" />
-</p>
+<div align="center">
 
-<p>
-  <img src="ADD_IMAGE_URL_4" width="32%" />
-  <img src="ADD_IMAGE_URL_5" width="32%" />
-  <img src="ADD_IMAGE_URL_6" width="32%" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyousuf044-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasanyousuf044-code&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hasanyousuf044-code&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 ---
 
-## GitHub Stats
+## 📈 Skills Matrix
 
-<p align="center">
-  <img src="https://github
-    readmestats.vercel.app/apiusername=hasanyousuf044-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub
-    Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanyousuf044-cod&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyousuf044-cod&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanyousuf044-cod&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+| Skill | Level | 
+|-------|-------|
+| 🐍 Python | Intermediate → Advanced | 
+| 🧠 Problem Solving / DSA | Growing | 
+| 🔀 Git & GitHub | Comfortable | 
+| 🔌 Backend Development | Learning | 
+| 🌐 REST APIs | Learning | 
+| 📊 Data Handling | Beginner | 
+| 🏆 Competitive Programming | Active | 
 
 ---
 
-## GitHub Summary
+## 🗺️ Roadmap
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanyousuf044-cod&theme=tokyonight" alt="Profile Details" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasanyousuf044-cod&theme=tokyonight" alt="Repos per Language" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasanyousuf044-cod&theme=tokyonight" alt="Most Commit Language"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasanyousuf044-cod&theme=tokyonight" alt="Stats" />
-    </td>
-  </tr>
-</table>
+<details>
+<summary><b>📌 Short Term (Next 3 Months)</b></summary>
 
----
+- [ ] Deepen Python mastery (OOP, decorators, generators, async)
+- [ ] Solve 200+ LeetCode problems
+- [ ] Build 3 polished Python portfolio projects
+- [ ] Publish clean, documented repositories
+- [ ] Add real certificates with proof images
 
-## Skills Matrix
+</details>
 
-| Area | Status | Notes |
-|------|--------|------|
-| Python | Strong / Growing | [Add notes] |
-| Git & GitHub | Strong / Growing | [Add notes] |
-| Competitive Programming | Strong / Growing | [Add notes] |
-| Backend Development | Learning / Building | [Add notes] |
-| APIs | Learning / Building | [Add notes] |
-| Data Handling | Learning / Building | [Add notes] |
-| Problem Solving | Strong / Growing | [Add notes] |
+<details>
+<summary><b>🎯 Mid Term (3–12 Months)</b></summary>
+
+- [ ] Create production-style automation tools
+- [ ] Improve competitive programming rating
+- [ ] Contribute to open source projects
+- [ ] Build one full-stack portfolio application
+
+</details>
+
+<details>
+<summary><b>🚀 Long Term (1+ Year)</b></summary>
+
+- [ ] Build systems with real users and usage
+- [ ] Maintain a strong, consistently updated public portfolio
+- [ ] Produce high-quality software at professional standards
+
+</details>
 
 ---
 
-## Roadmap
+## 🎓 Education
 
-### Short Term
-- Improve Python depth
-- Build more polished projects
-- Strengthen DSA and problem solving
-- Publish clean repositories
-- Add certificates with proof images
-
-### Mid Term
-- Work with APIs and backend services
-- Build production-style tools
-- Improve competitive programming rank
-- Contribute to open source
-- Create portfolio-level applications
-
-### Long Term
-- Develop advanced engineering skills
-- Build systems with real users
-- Maintain a strong public portfolio
-- Produce high-quality software consistently
+| | Details |
+|---|---|
+| 📚 Level | Currently Studying |
+| 🔬 Focus | Python, Programming, Problem Solving |
+| 🧑‍💻 Self-Study | Git, GitHub, APIs, DSA, System Design |
+| 📍 Location | Bangladesh |
 
 ---
 
-## Social Links
+## 🏅 Certificates
 
-- GitHub: [Add link]
-- LinkedIn: [Add link]
-- LeetCode: [Add link]
-- Codeforces: [Add link]
-- CodeChef: [Add link]
-- YouTube: [Add link]
-- Instagram: [Add link]
-- Facebook: [Add link]
-- X / Twitter: [Add link]
-- Portfolio: [Add link]
-- Blog: [Add link]
-- Email: [Add email]
-- Discord: [Add link]
-- Telegram: [Add link]
+> 🔲 *Add your certificates below — paste image URLs and details*
+
+| Certificate | Issuer | Year | Link |
+|------------|--------|------|------|
+| [Add Certificate Name] | [Add Issuer] | [Year] | [Add Link] |
+| [Add Certificate Name] | [Add Issuer] | [Year] | [Add Link] |
+| [Add Certificate Name] | [Add Issuer] | [Year] | [Add Link] |
 
 ---
 
-## Contact
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:hasanyousuf044@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/hasanyousuf044-cod">
-    <img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/hasanyousuf044-code">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hasanyousuf044">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/hasanyousuf044">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/hasanyousuf044">
+    <img src="https://img.shields.io/badge/Codeforces-Compete-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
----
-
-## Contribution Rules
-
-- Build before talking
-- Keep repositories clean
-- Use meaningful names
-- Prefer readability over cleverness
-- Remove unnecessary complexity
-- Document every serious project
-- Keep proof images and links updated
-- Let work speak louder than claims
+> 📌 **Update your LinkedIn, LeetCode, Codeforces usernames** in the links above if they differ.
 
 ---
 
-## Final Note
+## 📐 My Engineering Principles
 
-This profile is designed to grow with achievement.
-
-Every placeholder here exists for a reason:
-- add certificates later
-- add screenshots later
-- add competitive programming proof later
-- add tools, libraries, and links later
-- keep the public profile professional at every stage
+```
+🔹 Build before talking
+🔹 Keep repositories clean and organized
+🔹 Use meaningful, descriptive names
+🔹 Prefer readability over cleverness
+🔹 Remove all unnecessary complexity
+🔹 Document every serious project
+🔹 Let work speak louder than claims
+🔹 Quality over noise. Substance over appearance.
+```
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Keep+Building.+Keep+Growing.&fontSize=24&fontColor=A78BFA&fontAlignY=65" />
+
+</div>
 
 <div align="center">
 
