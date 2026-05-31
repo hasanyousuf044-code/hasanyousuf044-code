@@ -16,8 +16,8 @@
 </p>
 
 <p>
-  <a href="https://leetcode.com/hasanyousuf044">
-    <img src="https://img.shields.io/badge/LeetCode-hasanyousuf044-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/RkzWVfuTEZ/">
+    <img src="https://img.shields.io/badge/LeetCode-RkzWVfuTEZ-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://codeforces.com/profile/hasanyousuf044">
     <img src="https://img.shields.io/badge/Codeforces-hasanyousuf044-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -130,13 +130,11 @@ class YousufHasan:
 
 | Platform | Profile | Status |
 |----------|---------|--------|
-| 🟡 LeetCode | [hasanyousuf044](https://leetcode.com/hasanyousuf044) | Active |
-| 🔵 Codeforces | [hasanyousuf044](https://codeforces.com/profile/hasanyousuf044) | Active |
-| 🟤 CodeChef | [hasanyousuf044](https://www.codechef.com/users/hasanyousuf044) | Active |
+| 🟡 LeetCode | [RkzWVfuTEZ](https://leetcode.com/hasanyousuf044) | Active |
 | 🟢 HackerRank | [hasanyousuf044](https://www.hackerrank.com/hasanyousuf044) | Active |
-| 🟣 AtCoder | [hasanyousuf044](https://atcoder.jp/users/hasanyousuf044) | Active |
-
-> 📌 **Update this table** with your real handles — just replace `hasanyousuf044` in each link.
+| 🔵 Codeforces | [hasanyousuf044](https://codeforces.com/profile/hasanyousuf044) | Unactive |
+| 🟤 CodeChef | [hasanyousuf044](https://www.codechef.com/users/hasanyousuf044) | Unactive |
+| 🟣 AtCoder | [hasanyousuf044](https://atcoder.jp/users/hasanyousuf044) | Unactive |
 
 ---
 
@@ -245,7 +243,7 @@ class YousufHasan:
   <a href="https://www.linkedin.com/in/hasanyousuf044">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/hasanyousuf044">
+  <a href="https://leetcode.com/RkzWVfuTEZ/">
     <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://codeforces.com/profile/hasanyousuf044">
