@@ -119,7 +119,6 @@ class YousufHasan:
 ✅ Solve logic problems and algorithmic challenges
 ✅ Build portfolio projects with clean structure
 ✅ Improve code readability and maintainability
-✅ Learn backend development and REST APIs
 ✅ Document projects professionally
 ✅ Keep repository quality consistently high
 ```
