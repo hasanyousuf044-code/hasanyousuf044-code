@@ -86,6 +86,7 @@ class YousufHasan:
   <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 ### 📦 Python Libraries (Current)
@@ -131,9 +132,9 @@ class YousufHasan:
 |----------|---------|--------|
 | 🟡 LeetCode | [RkzWVfuTEZ](https://leetcode.com/hasanyousuf044) | Active |
 | 🟢 HackerRank | [hasanyousuf044](https://www.hackerrank.com/hasanyousuf044) | Active |
-| 🔵 Codeforces | [hasanyousuf044](https://codeforces.com/profile/hasanyousuf044) | Unactive |
-| 🟤 CodeChef | [hasanyousuf044](https://www.codechef.com/users/hasanyousuf044) | Unactive |
-| 🟣 AtCoder | [hasanyousuf044](https://atcoder.jp/users/hasanyousuf044) | Unactive |
+| 🔵 Codeforces | [hasanyousuf044](https://codeforces.com/profile/hasanyousuf044) | Inactive |
+| 🟤 CodeChef | [hasanyousuf044](https://www.codechef.com/users/hasanyousuf044) | Inactive |
+| 🟣 AtCoder | [hasanyousuf044](https://atcoder.jp/users/hasanyousuf044) | Inactive |
 
 ---
 
